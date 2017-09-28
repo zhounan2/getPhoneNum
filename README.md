@@ -1,0 +1,2 @@
+# getPhoneNum
+微信小程序button获取用户微信绑定的手机号码
